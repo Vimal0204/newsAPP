@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/drawable/buttondesign.xml" value="0.17" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/drawable/edittextdesign.xml" value="0.17" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_cityfinder.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_intermainnews.xml" value="0.2515625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_login.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_main.xml" value="0.2515625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_mainnews.xml" value="0.2515625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_news.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_signup.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_weather.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_web_view.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/activity_web_view1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/entertainementfragment.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/entertainementfragment1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/healthfragment.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/healthfragment1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/homefragment.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/homefragment1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/layout_item.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/layout_item1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/sciencefragment.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/sciencefragment1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/sportsfragement.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/sportsfragment1.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/technologyfragement.xml" value="0.265625" />
+        <entry key="..\:/Users/VIMAL KUMAR/AndroidStudioProjects/NewsNaut2/app/src/main/res/layout/technologyfragment1.xml" value="0.265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
